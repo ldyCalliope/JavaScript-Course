@@ -1,0 +1,16 @@
+ORDER OF OPERATIONS:
+1. ()
+2. *, /
+3. +, -
+
+also called operator precedence:
+*, / are done first
++, - are done after
+
+example: 
+*, / have the same priority
+2 * 3 / 5 calculate from left to right.
+
++, - have the same priority
+2 * 3 - 5 calculate from left to right.
+
